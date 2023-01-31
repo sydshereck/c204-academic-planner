@@ -1,4 +1,5 @@
-CISC/CMPE 204 Modelling Project
+#CISC/CMPE 204 Modelling Project
+
 Welcome to the major project for CISC/CMPE 204 (Fall 2021)!
 
 Choosing your courses and ensuring you are set up to take all of the required courses and prerequisites for your degree can be very stressful. This project aims to assess what courses a student must take to complete the Biomedical Computing specialization degree at Queens University.
